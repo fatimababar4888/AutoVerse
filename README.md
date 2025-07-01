@@ -52,6 +52,3 @@ The application features a robust class hierarchy with inheritance, polymorphism
 * Secure login system verification
 * Usability checks for all menu paths
 
----
-
-Let me know if you’d like a creative, humorous, or more business-like version of the title or description!
