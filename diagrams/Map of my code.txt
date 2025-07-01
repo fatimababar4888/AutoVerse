@@ -1,0 +1,60 @@
+Start
+|
+|--- Welcome to Car Management System
+|
+|--- Press any key to proceed...
+|
+|--- User Menu
+|    |
+|    |--- [1] Admin
+|    |--- [2] Buyer
+|    |--- [3] Seller
+|    |
+|    |--- Enter the number of your choice:
+|         |
+|         |--- Admin Login
+|         |    |
+|         |    |--- Admin Display Menu
+|         |         |
+|         |         |--- [1] Add Vehicle
+|	  |         |     |--- [1] New
+|	  |         |     |--- [2] Used
+|         |         |--- [2] Remove Vehicle (Unavailable)
+|         |         |--- [3] Manage Inspection Requests (Unavailable)
+|         |         |--- [4] Add Notification
+|         |         |--- [5] Remove Notification and comments (Unavailable)
+|         |         |--- [6] Rate a Vehicle
+|	  |         |     |--- [1] New
+|	  |         |     |--- [2] Used
+|         |         |--- [7] Logout
+|         |
+|         |--- Buyer Login
+|         |    |
+|         |    |--- Buyer Display Menu
+|         |         |
+|         |         |--- [1] View Vehicles
+|	  |         |     |--- [1] New
+|	  |         |     |--- [2] Used
+|         |         |--- [2] View Auction (Unavailable)
+|         |         |--- [3] Request Inspection Report (Unavailable)
+|         |         |--- [4] Contact Seller 
+|         |         |--- [5] View Notifications
+|         |         |--- [6] Add a comment on car 
+|         |         |--- [7] Logout
+|         |
+|         |--- Seller Login
+|         |    |
+|         |    |--- Seller Display Menu
+|         |         |
+|         |         |--- [1] View Vehicles
+|	  |         |     |--- [1] New
+|	  |         |     |--- [2] Used
+|         |         |--- [2] Add Vehicle
+|	  |         |     |--- [1] New
+|	  |         |     |--- [2] Used
+|         |         |--- [3] Remove Vehicle (Unavailable)
+|         |         |--- [4] Register in Auction (Unavailable)
+|         |         |--- [5] View Notifications
+|         |         |--- [6] Logout
+|
+|--- End
