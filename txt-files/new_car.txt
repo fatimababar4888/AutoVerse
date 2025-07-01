@@ -1,0 +1,11 @@
+Ford,Fusion,1800,Red,2015,Gasoline
+Honda,Civic,1600,Silver,2018,Diesel
+Chevrolet,Malibu,2000,Black,2019,Hybrid
+BMW,3 Series,2500,White,2020,Petrol
+Mercedes-Benz,E-Class,3000,Gray,2021,Diesel
+Volkswagen,Jetta,1700,Green,2017,Gasoline
+Nissan,Altima,1900,Blue,2016,Hybrid
+Hyundai,Elantra,1500,Yellow,2014,Petrol
+Kia,Soul,1400,Orange,2013,Gasoline
+Tesla,Model 3,3500,Silver,2022,Electric
+Suzuki,Vitz,200000,Maroon,2012,Diesel

@@ -1,0 +1,12 @@
+Ford,Escape,2000,Blue,2019,Gasoline
+Toyota,Camry,2200,Black,2020,Hybrid
+Audi,A4,2700,Red,2021,Diesel
+Mazda,Mazda3,1800,Gray,2017,Petrol
+Subaru,Outback,2400,Green,2018,Diesel
+Chrysler,300,2100,White,2016,Petrol
+Jaguar,F-PACE,3200,Orange,2022,Gasoline
+Lexus,RX,2800,Silver,2019,Hybrid
+Buick,Encore,1700,Yellow,2015,Gasoline
+Porsche,911,3500,Black,2023,Petrol
+Suzuki,Mehran,1200,Pink,2012,Petrol
+Honda,Corolla,15000,Blue,2003,Electric
